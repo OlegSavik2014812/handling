@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.testng:testng:6.1.1" type="repository">
+    <properties maven-id="org.testng:testng:6.1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/information/lib/testng-6.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/information/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/information/lib/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/information/lib/jcommander-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/information/lib/snakeyaml-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

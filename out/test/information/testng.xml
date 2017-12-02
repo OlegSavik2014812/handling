@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="main-suite">
+    <test name="CalculationAreaActionTest">
+        <classes>
+            <class name="by.epam.chain.impl.TextHandlerTest"/>
+        </classes>
+    </test>
+</suite>
+
+
+
